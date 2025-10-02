@@ -2,4 +2,4 @@
 // to run, use node app.js
 var message = "Hello, TypeScript!";
 console.log(message);
-console.log(message.toLocaleLowerCase());
+console.log(message.toLowerCase());
